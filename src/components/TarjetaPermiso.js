@@ -37,7 +37,7 @@ export default function TarjetaPermiso({ permiso, respuesta, onSolicitar }) {
 
 const styles = StyleSheet.create({
     tarjeta: {
-        flexDirection: 'row',
+        flexDirection: 'row', //centra verticalmente los elementos
         alignItems: 'center',
         padding: 14,
         marginBottom: 12,
