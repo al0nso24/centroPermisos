@@ -1,5 +1,5 @@
 //Pantalla 2: Resumen de los permisos activos
-import { ScrollView, StyleSheet, Text, View } from 'reactnative';
+import { ScrollView, StyleSheet, Text, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import { PERMISOS, colorDeEstado, textoDeEstado } from '../constants/permisos';
 
